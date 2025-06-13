@@ -1,0 +1,6 @@
+@NextCloudUpload_HostAddress = http://localhost:5057
+
+GET {{NextCloudUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
